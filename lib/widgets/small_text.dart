@@ -26,4 +26,3 @@ class SmallText extends StatelessWidget {
     );
   }
 }
-
